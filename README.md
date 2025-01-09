@@ -45,7 +45,7 @@ I am an AI and Data Science enthusiast with a Computer Science background, curre
 
 ---
 
-**Duration: January 2024 to February 2024**
+**Data Science Intern at PRODIGY Infotech**
 
 Hands-on experience and practical insights into data science with applied skills in a professional setting:
 
@@ -102,7 +102,8 @@ Hands-on experience and practical insights into data science with applied skills
   
 ## Education
 - *Computer Science Graduate* from Karakoram International University
-- **High Impact Skills Development Program (AI and Data Science)**  
+  
+- **High Impact Skills Development Program (AI and Data Science)*
   *GBit and NUST | August 16 – December 16, 2024*  
   Enrolled in a six-month program emphasizing advanced skills in AI and Data Science, fostering innovation and real-world problem-solving capabilities.
 ---
@@ -110,7 +111,7 @@ Hands-on experience and practical insights into data science with applied skills
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/nagina-abbas-1ab1b2283/)
 - [GitHub](https://github.com/NaginaAbbas)
-- [Email](naginaabbas890@gmail.com)
+-[Email](naginaabbas890@gmail.com)
 ---
 
 ## 🛠️ Skills  
@@ -142,8 +143,9 @@ Hands-on experience and practical insights into data science with applied skills
 
 ## 🏆 Achievements  
 - 🎓 Successfully completed AI and Data Science certification programs from **NUST Islamabad**.  
-- 🌐 Contributed to multiple **open-source AI projects**, enhancing community-driven solutions.  
-### **STEM Sisters Exchange Program** *(June 15 – July 6, 2024)*  
+- 🌐 Contributed to multiple **open-source AI projects**, enhancing community-driven solutions.
+  
+ **STEM Sisters Exchange Program** *(June 15 – July 6, 2024)** 
 - Selected for a fully funded interdisciplinary program sponsored by the American Institute of Pakistan Studies.  
 - Engaged in:  
   - Lectures and workshops on climate change and sustainability.  
@@ -151,8 +153,9 @@ Hands-on experience and practical insights into data science with applied skills
 - Awarded a **prize of PKR 250,000** for exemplary participation and innovation.  
 
 ### **Startup Competition Winner**  
-- **Hosted by**: NUST University, US Embassy, and Pak Mission Society at NSTP Islamabad.  
-- Secured **1st Place** for innovative startup ideas, receiving funding and mentorship to scale the project.  
+- **Hosted by**: NUST University, **US Embassy**, and Pak Mission Society at NSTP Islamabad.
+   
+- Secured 1st Place for innovative startup ideas, receiving funding and mentorship to scale the project.  
 ---
 
 ## 📝 Blog  
