@@ -106,14 +106,14 @@ Hands-on experience and practical insights into data science with applied skills
 - *High Impact Skills Development Program (AI and Data Science)
   *GBit and NUST | August 16 – December 16, 2024*  
   Enrolled in a six-month program emphasizing advanced skills in AI and Data Science, fostering innovation and real-world problem-solving capabilities.
----
+
 
 ## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/nagina-abbas-1ab1b2283/)
-  
+- [LinkedIn](https://www.linkedin.com/in/nagina-abbas-1ab1b2283/) 
 - [GitHub](https://github.com/NaginaAbbas)
-  
--[Email](naginaabbas890@gmail.com)
+- [GitHub](naginaabbas890@gmail.com)
+
+---
 
 ## 🛠️ Skills  
 ### **Languages**  
@@ -146,7 +146,7 @@ Hands-on experience and practical insights into data science with applied skills
 - 🎓 Successfully completed AI and Data Science certification programs from **NUST Islamabad**.  
 - 🌐 Contributed to multiple **open-source AI projects**, enhancing community-driven solutions.
   
- **STEM Sisters Exchange Program** *(June 15 – July 6, 2024)** 
+ **STEM Sisters Exchange Program** (June 15 – July 6, 2024)
 - Selected for a fully funded interdisciplinary program sponsored by the American Institute of Pakistan Studies.  
 - Engaged in:  
   - Lectures and workshops on climate change and sustainability.  
