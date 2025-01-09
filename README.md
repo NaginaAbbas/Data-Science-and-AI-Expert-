@@ -111,7 +111,7 @@ Hands-on experience and practical insights into data science with applied skills
 - [LinkedIn](https://www.linkedin.com/in/nagina-abbas-1ab1b2283/)
 - [GitHub](https://github.com/NaginaAbbas)
 - [Email](naginaabbas890@gmail.com)
--[insta](https://www.instagram.com/nagina_abbas5/?hl=en)
+-[Insta](https://www.instagram.com/nagina_abbas5/?hl=en)
 ---
 
 ## 🛠️ Skills  
