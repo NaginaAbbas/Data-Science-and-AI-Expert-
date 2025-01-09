@@ -103,16 +103,17 @@ Hands-on experience and practical insights into data science with applied skills
 ## Education
 - *Computer Science Graduate* from Karakoram International University
   
-- **High Impact Skills Development Program (AI and Data Science)*
+- *High Impact Skills Development Program (AI and Data Science)
   *GBit and NUST | August 16 – December 16, 2024*  
   Enrolled in a six-month program emphasizing advanced skills in AI and Data Science, fostering innovation and real-world problem-solving capabilities.
 ---
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/nagina-abbas-1ab1b2283/)
+  
 - [GitHub](https://github.com/NaginaAbbas)
+  
 -[Email](naginaabbas890@gmail.com)
----
 
 ## 🛠️ Skills  
 ### **Languages**  
@@ -154,9 +155,7 @@ Hands-on experience and practical insights into data science with applied skills
 
 ### **Startup Competition Winner**  
 - **Hosted by**: NUST University, **US Embassy**, and Pak Mission Society at NSTP Islamabad.
-   
-- Secured 1st Place for innovative startup ideas, receiving funding and mentorship to scale the project.  
----
+    Secured 1st Place for innovative startup ideas, receiving funding and mentorship to scale the project.  
 
 ## 📝 Blog  
 Check out my [**Technical Blog**](https://www.instagram.com/nagina_abbas5/?hl=en) 🖋️, where I share insights on:  
