@@ -111,7 +111,7 @@ Hands-on experience and practical insights into data science with applied skills
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/nagina-abbas-1ab1b2283/) 
 - [GitHub](https://github.com/NaginaAbbas)
-- [GitHub](naginaabbas890@gmail.com)
+- [Gmail](naginaabbas890@gmail.com)
 
 ---
 
